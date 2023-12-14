@@ -32,7 +32,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'egow-smith1@sheffield.ac.uk'
+    link: 'mailto:egow-smith1@sheffield.ac.uk'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=2Fb1TO8AAAAJ&hl=en
