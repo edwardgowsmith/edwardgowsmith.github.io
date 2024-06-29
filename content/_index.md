@@ -15,10 +15,10 @@ sections:
     content:
       title: Activities
       text: <ul>
-        <li> June 2024 - Chair for a panel at EAMT titled "LLMs and Machine Translation for Low-Resource Languages Bridging Gaps or Widening Divides?" <\li>
-        <li> March 2024 - Organiser of First Workshop on NLP for Indigenous Languages of Lusophone Countries, co-located with PROPOR 2024 <\li>
-        <li> June 2023 - Winner of shared task on translating spanish into Indigenous languages, AmericasNLP <\li>
-        <\ul>
+        <li> June 2024 - Chair for a panel at EAMT titled "LLMs and Machine Translation for Low-Resource Languages Bridging Gaps or Widening Divides?" 
+        <li> March 2024 - Organiser of First Workshop on NLP for Indigenous Languages of Lusophone Countries, co-located with PROPOR 2024 
+        <li> June 2023 - Winner of shared task on translating spanish into Indigenous languages, AmericasNLP 
+        
 
     design:
       view: compact
