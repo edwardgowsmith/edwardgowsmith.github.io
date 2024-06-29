@@ -11,7 +11,7 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: markdown
     content:
       title: Activities
       text: June 2024 - Chair for a panel at EAMT titled "LLMs and Machine Translation for Low-Resource Languages Bridging Gaps or Widening Divides?"
