@@ -14,7 +14,8 @@ sections:
   - block: activities
     content:
       title: Activities
-      text: June 2024 - Chair for a panel at EAMT titled "LLMs and Machine Translation for Low-Resource Languages\: Bridging Gaps or Widening Divides?"
+      text: June 2024 - Chair for a panel at EAMT titled "LLMs and Machine Translation for Low-Resource Languages Bridging Gaps or Widening Divides?"
+    # text: March 2024 - Organiser of First Workshop on NLP for Indigenous Languages of Lusophone Countries, co-located with PROPOR 2024
     design:
       view: compact
   - block: collection
