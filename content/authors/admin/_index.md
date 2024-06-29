@@ -22,7 +22,10 @@ education:
   courses:
     - course: BA in Physics
       institution: University of Oxford
-      year: 2019
+      year: 2015 - 2019
+    - course: CDT in Speech and Language Technologies
+      institution: University of Sheffield
+      year: 2020 - 2025
 
 
 # Social/Academic Networking
