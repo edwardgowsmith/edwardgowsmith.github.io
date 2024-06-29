@@ -57,4 +57,5 @@ highlight_name: true
 ---
 
 I'm a PhD Student at the UKRI Centre for Doctoral Training in Speech and Language Technologies at the University of Sheffield.
-My research interests include pre-training approaches for language models and low-resource language translation. 
+My research interests include pre-training approaches for language models, subword tokenisation, and low-resource language translation. 
+You can download my CV [here](https://drive.google.com/file/d/1mmSPkTZr51tUM0xSDxUJ3aIycPlQab0d/view?usp=sharing).
