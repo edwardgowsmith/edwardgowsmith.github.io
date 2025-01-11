@@ -20,12 +20,13 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-    - course: BA in Physics
-      institution: University of Oxford
-      year: 2015 - 2019
     - course: CDT in Speech and Language Technologies
       institution: University of Sheffield
       year: 2020 - 2025
+    - course: BA in Physics
+      institution: University of Oxford
+      year: 2015 - 2019
+    
 
 
 # Social/Academic Networking
@@ -57,5 +58,5 @@ highlight_name: true
 ---
 
 I'm a PhD Student at the UKRI Centre for Doctoral Training in Speech and Language Technologies at the University of Sheffield.
-My research interests include pre-training approaches for language models, subword tokenisation, and low-resource language translation. 
+My PhD has focused on training large foundation models for text, evaluating the impact of subword tokenisation on model performance, both in a general domain and in the processing of complex words, and in morphologically complex languages. Outside of this, I'm interested in the application of AI methods to climate modelling, and I've been involved in multiple projects in this space.
 You can download my CV [here](https://drive.google.com/file/d/1mmSPkTZr51tUM0xSDxUJ3aIycPlQab0d/view?usp=sharing).
